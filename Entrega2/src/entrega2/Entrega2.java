@@ -16,6 +16,7 @@ public class Entrega2 {
         
         
         System.out.println("Hola");
+        System.out.println("chao");
     }
     
 }
